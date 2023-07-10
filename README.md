@@ -11,7 +11,9 @@ Hi, my name is Vazgen. Previously, I worked in an IT company as an account manag
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" width="36" height="36" alt="tableau" /></a>
+<a href="https://about.gitlab.com" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" width="36" height="36" alt="gitlab" /></a>
 </p>
 
 ### Socials
